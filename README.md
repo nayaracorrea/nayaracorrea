@@ -1,7 +1,7 @@
 ### Hi, I'm Nayara Corrêa!
 
 <i>Systems analysis student at the State University Center of the West Zone</i><br>
-<i>Software Developer at Healthtool</i><br>
+<i>Front-End Developer At Avanade</i><br>
 
 <a href="https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/" rel="nofollow">
   <img align="left" alt="Nay Corrêa's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
