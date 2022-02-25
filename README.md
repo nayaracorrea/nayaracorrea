@@ -1,6 +1,6 @@
 ### Hi, I'm Nayara Corrêa!
 
-<i>Systems analysis student at the State University Center of the West Zone</i><br>
+<i>Systems analysis student at the UNOPAR</i><br>
 <i>Front-End Developer At Avanade</i><br>
 
 <a href="https://www.linkedin.com/in/nayara-corr%C3%AAa-03bb91149/" rel="nofollow">
