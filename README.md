@@ -26,18 +26,17 @@
 
 <div class="highlight highlight-source-js"><pre><span class="pl-k" style="font-size: 12px">const</span> <span class="pl-s1">nay</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
     <span class="pl-c1">pronouns</span>: <span class="pl-s">"she"</span> | <span class="pl-s">"her"</span><span class="pl-kos">,</span>
-    <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-s">"Javascript"</span><span class="pl-kos">,</span> <span class="pl-s">"Typescript"</span><span class="pl-kos">,</span> <span class="pl-s">"HTML"</span><span class="pl-kos">,</span> <span class="pl-s">"CSS"</span><span class="pl-kos">,</span> <span class="pl-s">"C#"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+    <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-s">"Javascript"</span><span class="pl-kos">,</span> <span class="pl-s">"Typescript"</span><span class="pl-kos">,</span> <span class="pl-s">"HTML"</span><span class="pl-kos">,</span> <span class="pl-s">"CSS"</span>]</span><span class="pl-kos">,</span>
     <span class="pl-c1">askMeAbout</span>: <span class="pl-kos">[</span><span class="pl-s">"web dev"</span><span class="pl-kos">,</span> <span class="pl-s">"tech"</span><span class="pl-kos">,</span> <span class="pl-s">"app dev"</span><span class="pl-kos">,</span> <span class="pl-kos">]</span><span class="pl-kos">,</span>
     <span class="pl-c1">technologies</span>: <span class="pl-kos">{</span>
         <span class="pl-c1">mobileApp</span>: <span class="pl-kos">[</span><span class="pl-s">"React Native"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
         <span class="pl-c1">frontEnd</span>: <span class="pl-kos">{</span>
-            <span class="pl-c1">js</span>: <span class="pl-kos">[</span><span class="pl-s">"React JS"</span><span class="pl-kos">,</span> <span class="pl-s">"KnockoutJS"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+            <span class="pl-c1">js</span>: <span class="pl-kos">[</span><span class="pl-s">"React JS"</span><span class="pl-kos">,</span> <span class="pl-s">"KnockoutJS"</span><span class="pl-kos"><span class="pl-kos">,</span> <span class="pl-s">"UI5"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
             <span class="pl-c1">css</span>: <span class="pl-kos">[</span><span class="pl-s">"materialize"</span><span class="pl-kos">,</span> <span class="pl-s">"bootstrap"</span><span class="pl-kos">]</span>
         <span class="pl-kos">}</span><span class="pl-kos">,</span>
         <span class="pl-c1">backEnd</span>: <span class="pl-kos">{</span>
-            <span class="pl-c1">js</span>: <span class="pl-kos">[</span><span class="pl-s">"node"</span><span class="pl-kos">,</span> <span class="pl-s">"express"</span> <span class="pl-kos">]</span><span class="pl-kos">,</span>
+            <span class="pl-c1">js</span>: <span class="pl-kos">[</span><span class="pl-s">"node"</span><span class="pl-kos">,</span> <span class="pl-s">"express"</span><span class="pl-kos">,</span> <span class="pl-s">"NestJS"</span> <span class="pl-kos">]</span><span class="pl-kos">,</span>
         <span class="pl-kos">}</span><span class="pl-kos">,</span>
-        <span class="pl-c1">devOps</span>: <span class="pl-kos">[</span> <span class="pl-s">"Docker🐳"</span><span class="pl-kos"><span class="pl-kos">]</span><span class="pl-kos">,</span>
         <span class="pl-c1">databases</span>: <span class="pl-kos">[</span><span class="pl-s">"mongo"</span><span class="pl-kos">,</span> <span class="pl-s">"SQL Server"</span> <span class="pl-kos">]</span><span class="pl-kos">,</span>
     <span class="pl-kos">}</span><span class="pl-kos">,</span>
     <span class="pl-c1">currentFocus</span>: <span class="pl-s">"Develop programming using React and Typescript"</span><span class="pl-kos">,</span>
